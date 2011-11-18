@@ -1,0 +1,3 @@
+[submodule "vendor/anet_php_sdk"]
+	path = vendor/anet_php_sdk
+	url = git://github.com/nightfury/anet_php_sdk.git
