@@ -7,6 +7,9 @@ define("AUTHORIZENET_SANDBOX", Kohana::$config->load('authorizenet.test_mode'));
 define("AUTHORIZENET_API_LOGIN_ID", Kohana::$config->load('authorizenet.api_login'));
 define("AUTHORIZENET_TRANSACTION_KEY", Kohana::$config->load('authorizenet.transaction_key'));
 
+// Encryption
+define("AUTHORIZENET_MD5_SETTING", Kohana::$config->load('authorizenet.md5_setting'));
+
 /**
  * Enable the auto-loader for the Authorize.Net classes.
  *
