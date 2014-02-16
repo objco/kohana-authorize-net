@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * @package    Authorize-Net
- * @author     Jonathan Davis <jonathan.davis@objectivecompany.com>
+ * @author     Jonathan Davis <jonathan@obj.co>
  * @copyright  (c) 2011 The Objective Company
  * @license    https://raw.github.com/ObjectiveCompany/kohana-authorize-net/3.2/master/LICENSE.md
  **/
